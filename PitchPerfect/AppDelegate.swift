@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  PitchPerfect
-//
-//  Created by Gyz on 8/13/18.
-//  Copyright © 2018 Gyz. All rights reserved.
-//
 
 import UIKit
 
@@ -12,7 +5,6 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.

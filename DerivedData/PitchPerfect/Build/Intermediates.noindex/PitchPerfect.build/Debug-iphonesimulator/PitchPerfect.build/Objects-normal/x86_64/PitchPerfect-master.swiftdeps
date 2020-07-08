@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "e260f45aeb8338773517207ebe0e50bc"
+build_time: [1565413459, 801454000]
+inputs:
+  "/Users/gyz/Desktop/PitchPerfect/PitchPerfect/RecordSoundsViewController.swift": [1534359293, 0]
+  "/Users/gyz/Desktop/PitchPerfect/PitchPerfect/PlaySoundsViewController.swift": [1534355247, 0]
+  "/Users/gyz/Desktop/PitchPerfect/PitchPerfect/AppDelegate.swift": [1565413445, 0]
+  "/Users/gyz/Desktop/PitchPerfect/PitchPerfect/playsoundsviewcontroller-audio.swift": [1534352605, 0]
